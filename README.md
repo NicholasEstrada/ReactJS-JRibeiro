@@ -4,7 +4,7 @@
 </h4>
 
 - Aprendizados desenvolvidos
-- `CDN`: aplicação de links
+- `CDN`: aplicação de links [props](estudo_CDN_React/index_props.html)
 - `props`: aplicação de dados
 - `state`: utilização de formatação
 - `map`: uso de map no react
