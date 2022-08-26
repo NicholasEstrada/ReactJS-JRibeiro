@@ -1,6 +1,6 @@
 # <h1 align="center"> curso de ReactJS com João Ribeiro </h1>
 <h4 align="center"> 
-    :construction:  curso em andamento de aprendizado  :construction:
+    :construction:  de aprendizado curso em andamento  :construction:
 </h4>
 
 - Aprendizados desenvolvidos
