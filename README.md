@@ -8,6 +8,6 @@
 - `props`: aplicação de dados
 - `state`: utilização de formatação
 - `map`: uso de map no react
-- [ ] ReactApp
+- [ ] aplicação ReactApp
 
 curso disponível no <a href="https://www.youtube.com/playlist?list=PLXik_5Br-zO9YVs9bxi7zoQlKq59VPTX1">YouTube</a>
